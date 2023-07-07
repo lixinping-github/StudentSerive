@@ -1,0 +1,15 @@
+{
+  "name": "studentservice",
+  "version": "1.0.0",
+  "description": "这是一个学生信息管理系统的后台程序",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "StudentService"
+  },
+  "author": "lixinping",
+  "license": "ISC"
+}
